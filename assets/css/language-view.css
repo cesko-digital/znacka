@@ -1,0 +1,18 @@
+/* Uncheck to see CZ & EN language together */
+
+html[lang="en"] *[lang="cz"], html[lang="cz"] *[lang="en"] {
+  display: none;
+}
+
+/* See EN only */
+
+html[lang="cz"] *[lang="cz"] {
+  /*display: none;*/
+}
+
+/* See CZ only */
+
+html[lang="cz"] *[lang="en"] {
+  /*display: none;*/
+}
+

@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'cesko.digital';
+	src: url(../../assets/fonts/ceskodigital-regular.woff2?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff2'),
+	url(../../assets/fonts/ceskodigital-regular.woff?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'cesko.digital';
+	src: url(../../assets/fonts/ceskodigital-medium.woff2?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff2'),
+	url(../../assets/fonts/ceskodigital-medium.woff?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'cesko.digital';
+	src: url(../../assets/fonts/ceskodigital-semibold.woff2?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff2'),
+	url(../../assets/fonts/ceskodigital-semibold.woff?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'cesko.digital';
+	src: url(../../assets/fonts/ceskodigital-bold.woff2?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff2'),
+	url(../../assets/fonts/ceskodigital-bold.woff?h=49c5b8f6b0a0cbff81066bf2e0037ce8) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
