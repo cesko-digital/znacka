@@ -1,0 +1,1 @@
+localStorage.setItem('lang',document.documentElement.lang=localStorage.getItem('lang') ?? document.documentElement.lang)
